@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./assets/img/logo.svg">
+    <img src="./assets/img/logo copy.svg">
     <p>Site Alura Skate para comunidade HZC!🛹</p>
 </h1>
 
